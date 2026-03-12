@@ -1,0 +1,20 @@
+{
+    "name": "lobochkin/text-helper",
+    "description": "Small text helper library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lobochkin\\TextHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir Lobochkin",
+            "email": "vladimir.lobochkin@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    }
+}
